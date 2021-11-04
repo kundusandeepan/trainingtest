@@ -14,17 +14,12 @@ hello again
 
 hi there
 
-gondogol
-gondogol2
-
-awesome
-
-
-i am great stupid
-
+Happy diwali
 
 
 zidaji ek safar hai suhana
 
+magic is awesome
+2+2 =5
 
 lalala alalala
