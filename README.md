@@ -20,3 +20,4 @@ Happy diwali
 zidaji ek safar hai suhana
 
 magic is awesome
+2+2 =5
