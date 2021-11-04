@@ -18,3 +18,5 @@ Happy diwali
 
 
 zidaji ek safar hai suhana
+
+magic is awesome
