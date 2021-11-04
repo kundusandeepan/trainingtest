@@ -8,6 +8,7 @@ hello world test
 changed from mac locally
 changed in mac locally 2
 
+introducing rebase
 
 hello again
 
@@ -20,3 +21,4 @@ awesome
 
 
 i am great stupid
+
