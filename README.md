@@ -17,3 +17,6 @@ gondogol
 gondogol2
 
 awesome
+
+
+magic is awesome
